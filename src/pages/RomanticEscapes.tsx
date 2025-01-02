@@ -44,3 +44,5 @@ export function RomanticEscapes() {
     </div>
   );
 }
+
+export default RomanticEscapes;
